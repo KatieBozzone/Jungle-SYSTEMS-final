@@ -2,8 +2,7 @@
 <html>
 <head>
 
-<!-- BE SURE TO CHANGE THIS; INCLUDE YOUR NAME AND A MEANINGFUL TITLE -->
-<title>Noah Travis Phillips ~ Hypertext reh.</title>
+<title> Katie Bozzone the Habitat of the jungle</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -67,3 +66,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </body>
 </html>
+
